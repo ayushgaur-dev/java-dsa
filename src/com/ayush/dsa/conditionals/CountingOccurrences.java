@@ -2,7 +2,7 @@ package com.ayush.dsa.conditionals;
 
 import java.util.Scanner;
 
-public class CountingOccurences {
+public class CountingOccurrences {
    public static void main(String[] args) {
 
         Scanner in = new Scanner(System.in);

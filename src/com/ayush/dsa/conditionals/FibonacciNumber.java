@@ -1,6 +1,6 @@
 package com.ayush.dsa.conditionals;
 import java.util.Scanner;
-public class FibbonaciNumber {
+public class FibonacciNumber {
     static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int max = in.nextInt();
