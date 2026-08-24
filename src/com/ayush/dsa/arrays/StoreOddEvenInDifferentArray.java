@@ -23,7 +23,7 @@ public class StoreOddEvenInDifferentArray {
             if (array[i]% 2 == 0){
                 even_count++;
             }
-            else{
+            else {
                 odd_count++;
             }
         }
